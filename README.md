@@ -1,0 +1,2 @@
+# typeProject_initializers
+typescript 项目脚手架的初始化脚步
