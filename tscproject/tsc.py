@@ -1,6 +1,10 @@
-#!/usr/bin/env python3
 # coding:utf-8
+import sys
 import subprocess
+
+PY2 = sys.version_info[0] == 2
+if PY2:
+    input = raw_input
 
 
 def tsc_project_init():
