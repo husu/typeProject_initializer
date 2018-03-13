@@ -3,6 +3,9 @@ typescript 项目脚手架的初始化脚步
 
 # 如何安装
 
+安装： sudo pip install tscproject
+
+
 # 如何使用
 
  1. 创建项目文件夹
